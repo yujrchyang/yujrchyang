@@ -1,3 +1,7 @@
+## GitHub Readme Stats
+
+[![Jrchyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrchyang&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## GitHub Statistics
 
 ![](https://raw.githubusercontent.com/jrchyang/github-stats/master/generated/overview.svg#gh-dark-mode-only)
